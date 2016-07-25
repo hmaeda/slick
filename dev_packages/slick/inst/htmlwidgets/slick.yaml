@@ -1,0 +1,11 @@
+dependencies:
+  - name: slick
+    version: 1.6.0
+    src: htmlwidgets/lib/slick-1.6.0
+    script:
+    	- slick/slick.min.js
+    	- slick/slick.js
+    stylesheet: 
+        - slick/slick.css
+        - slick/slick-theme.css
+
